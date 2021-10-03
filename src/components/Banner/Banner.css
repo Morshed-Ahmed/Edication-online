@@ -1,0 +1,15 @@
+.banner-style{
+        background-image: url("https://images.pexels.com/photos/7034443/pexels-photo-7034443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"),
+          linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+        height: 780px;
+        width: 100%;
+        /* border: 1px solid red; */
+        background-blend-mode: overlay;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+      };
+
+      .style{
+        margin-top: 250px;
+      }
