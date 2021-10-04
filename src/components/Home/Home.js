@@ -7,10 +7,10 @@ import Service from '../Service/Service';
 const Home = () => {
     return (
         <div >
-            <Nevdar></Nevdar>
+            {/* <Nevdar></Nevdar> */}
             <Banner></Banner>
             <Service></Service>
-            <Footer></Footer>
+            {/* <Footer></Footer> */}
         </div>
     );
 };

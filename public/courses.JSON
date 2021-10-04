@@ -1,0 +1,65 @@
+[
+    {
+        "key": "ghhy",
+        "img": "https://images.pexels.com/photos/374820/pexels-photo-374820.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+        "name": "Mathematics and Statistics",
+        "student": "50 Students",
+        "price": "$60"
+    },
+    {
+        "key": "hjju",
+        "img": "https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Physics and Philosophy",
+        "student": "40 Students",
+        "price": "$78"
+    },
+    {
+        "key": "hhyfc",
+        "img": "https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "History and Modern Languages",
+        "student": "60 Students",
+        "price": "$20"
+    },
+    {
+        "key": "juyf",
+        "img": "https://images.pexels.com/photos/4145153/pexels-photo-4145153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "The Complete JavaScript Course 2021",
+        "student": "20 Students",
+        "price": "$33"
+    },
+    {
+        "key": "jkhcv",
+        "img": "https://images.pexels.com/photos/2566581/pexels-photo-2566581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Ultimate Photoshop Training: From Beginner",
+        "student": "50 Students",
+        "price": "$44"
+    },
+    {
+        "key": "kiuf",
+        "img": "https://images.pexels.com/photos/4144222/pexels-photo-4144222.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+        "name": "User Experience Design Essentials",
+        "student": "80 Students",
+        "price": "$88"
+    },
+    {
+        "key": "kiocd",
+        "img": "https://images.pexels.com/photos/1181474/pexels-photo-1181474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Complete Blender Creator: Learn 3D Modelling",
+        "student": "65 Students",
+        "price": "$77"
+    },
+    {
+        "key": "derv",
+        "img": "https://images.pexels.com/photos/4260325/pexels-photo-4260325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Sales Training: Practical Sales Techniques",
+        "student": "60 Students",
+        "price": "$79"
+    },
+    {
+        "key": "oibn",
+        "img": "https://images.pexels.com/photos/4492126/pexels-photo-4492126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Complete Trello Fundamentals – Beginners to Advanced",
+        "student": "50 Students",
+        "price": "$30"
+    }
+]

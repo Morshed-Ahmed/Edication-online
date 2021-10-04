@@ -1,4 +1,8 @@
 .footer-style{
-    background-color: lightblue;
+    background-color: rgb(138, 123, 123);
 
+}
+
+.footer-styles p{
+    padding: 20px;
 }

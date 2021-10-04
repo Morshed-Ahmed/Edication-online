@@ -1,0 +1,16 @@
+.nevbar{
+    text-align: center;
+}
+
+.nevbar nav {
+    background-color: rgb(37, 31, 31);
+    padding: 15px;
+}
+.nevbar nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 15px;
+    
+    font-size: 20px;
+}
